@@ -1,0 +1,20 @@
+.notes {
+    height: 400px;
+    margin: 10px;
+    width: 300px;
+    padding:10px;
+    float: left;
+    background: orange
+}
+span {
+    font-size: 18px;
+}
+.buttons {
+    margin-bottom: 10px;
+}
+textarea {
+    width:100%;
+    height:100px;
+    background: #f8a82d;
+    font-size: 18px;
+}
